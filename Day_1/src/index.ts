@@ -24,12 +24,12 @@ function main() {
         }
       }
 
-      if (!isNaN(parseInt(stringNum))) {
-        arrOfStringNumbers.push(stringNum);
+      if (stringNum !== "") {
+        const num = stringNum[0] + stringNum[stringNum.length - 1];
+        arrOfStringNumbers.push(num);
       }
     }
   }
-
   for (const stringNum of arrOfStringNumbers) {
     sum += parseInt(stringNum);
   }
