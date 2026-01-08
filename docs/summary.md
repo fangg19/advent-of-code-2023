@@ -13,9 +13,3 @@ test
 - [ ] item 3
 
 some new text added
-
-tempor irure minim in esse aliquip tempor magna magna et
-
-some edit from github
-
-another test
