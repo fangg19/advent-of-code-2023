@@ -1,8 +1,8 @@
 ---
 title: hello
 docTags: 
-createdAt: Thu Jan 08 2026 12:24:21 GMT+0200 (Eastern European Standard Time)
-updatedAt: Wed Apr 22 2026 17:02:53 GMT+0300 (Eastern European Summer Time)
+createdAt: Wed Apr 22 2026 17:03:51 GMT+0300 (Eastern European Summer Time)
+updatedAt: Wed Apr 22 2026 17:04:51 GMT+0300 (Eastern European Summer Time)
 ---
 
 ## world
@@ -25,9 +25,7 @@ some edit from github
 
 another test
 
-
-
-:::CtaButton{label="lol" openInNewTab="true" noFollow="false"}
+:::CtaButton{label="lol" externalHref="https://www.leagueoflegends.com/ro-ro/" openInNewTab="true" noFollow="false"}
 
 :::
 
