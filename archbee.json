@@ -1,0 +1,28 @@
+{
+  "docsPath": "docs/",
+  "structure": {
+    "summary": "summary.md",
+    "assets": "assets",
+    "docsTree": [
+      {
+        "categoryName": "Summary.md",
+        "isCategory": false,
+        "path": "summary.md",
+        "children": []
+      },
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
+      }
+    ]
+  },
+  "footerTemplate": "",
+  "headerIncludes": "",
+  "customCSS": "",
+  "customJS": "",
+  "shadowDocs": null,
+  "publishSpace": false,
+  "sites": null
+}
